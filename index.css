@@ -35,6 +35,7 @@ body {
   bottom: 50%;
   right: 50%;
   opacity: 50%;
+  transform-origin: 0% 100%;
 }
 
 .hand-minute {
@@ -45,6 +46,7 @@ body {
   bottom: 50%;
   right: 50%;
   opacity: 50%;
+  transform-origin: 0% 100%;
 }
 
 .hand-hour {
@@ -55,4 +57,5 @@ body {
   bottom: 50%;
   right: 50%;
   opacity: 50%;
+  transform-origin: 0% 100%;
 }
