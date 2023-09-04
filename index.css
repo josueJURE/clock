@@ -28,6 +28,8 @@ body {
 }
 
 .hand-second {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
   height: 100px;
   width: 2px;
   background-color: red;
@@ -39,6 +41,8 @@ body {
 }
 
 .hand-minute {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
   height: 120px;
   width: 4px;
   background-color: rgb(155, 136, 136);
@@ -50,6 +54,8 @@ body {
 }
 
 .hand-hour {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
   height: 130px;
   width: 5px;
   background-color: rgb(23, 11, 11);
