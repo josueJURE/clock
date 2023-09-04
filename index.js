@@ -6,13 +6,12 @@ function getTime() {
     const now = new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
-    const second = now.getSeconds();
+    const seconds = now.getSeconds();
     const timeInterval = 6;
-    console.log(second)
-
-
-    
-    hoursHand.style.transform = `rotate(${hours}deg)`;
+   
+    secondsHand.style.transform = "rotate(" + (seconds * timeInterval) + "deg)";
+    minutesHand.style.transform = "rotate(" + (minutes * timeInterval + seconds / 10) + "deg)";
+    hoursHand.style.transform = "rotate(" + (hours * 30 + minutes / 2) + "deg)";
 }
 
-getTime()
+setInterval(getTime, 100)
