@@ -78,13 +78,11 @@ body {
 }
 
 .number {
-    position: absolute;
-    text-align: center;
-    height: 100%;
-    width: 100%;
+  position: absolute;
+  text-align: center;
+  height: 100%;
+  width: 100%;
 }
-
-
 
 .number1 {
   transform: rotate(30deg);
@@ -123,4 +121,176 @@ body {
 }
 .number12 {
   transform: rotate(0deg);
+}
+
+.dots {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  position: absolute;
+}
+
+.dot1 {
+  transform: rotate(6deg);
+}
+
+.dot2 {
+  transform: rotate(12deg);
+}
+
+.dot3 {
+  transform: rotate(18deg);
+}
+
+.dot4 {
+  transform: rotate(24deg);
+}
+
+.dot5 {
+  transform: rotate(36deg);
+}
+
+.dot6 {
+  transform: rotate(42deg);
+}
+
+.dot7 {
+  transform: rotate(48deg);
+}
+
+.dot8 {
+  transform: rotate(54deg);
+}
+.dot9 {
+  transform: rotate(66deg);
+}
+
+.dot10 {
+  transform: rotate(72deg);
+}
+
+.dot11 {
+  transform: rotate(78deg);
+}
+
+.dot12 {
+  transform: rotate(84deg);
+}
+
+.dot13 {
+  transform: rotate(96deg);
+}
+
+.dot14 {
+  transform: rotate(102deg);
+}
+
+.dot15 {
+  transform: rotate(108deg);
+}
+
+.dot16 {
+  transform: rotate(114deg);
+}
+
+.dot17 {
+  transform: rotate(126deg);
+}
+.dot18 {
+  transform: rotate(132deg);
+}
+.dot19 {
+  transform: rotate(138deg);
+}
+.dot20 {
+  transform: rotate(144deg);
+}
+
+.dot21 {
+  transform: rotate(156deg);
+}
+
+.dot22 {
+  transform: rotate(162deg);
+}
+
+.dot23 {
+  transform: rotate(168deg);
+}
+
+.dot24 {
+  transform: rotate(174deg);
+}
+.dot25 {
+  transform: rotate(186deg);
+}
+.dot26 {
+  transform: rotate(192deg);
+}
+.dot27 {
+  transform: rotate(198deg);
+}
+.dot28 {
+  transform: rotate(204deg);
+}
+.dot29 {
+  transform: rotate(216deg);
+}
+.dot30 {
+  transform: rotate(222deg);
+}
+.dot31 {
+  transform: rotate(228deg);
+}
+.dot32 {
+  transform: rotate(234deg);
+}
+.dot33 {
+  transform: rotate(246deg);
+}
+.dot34 {
+  transform: rotate(252deg);
+}
+.dot35 {
+  transform: rotate(258deg);
+}
+.dot36 {
+  transform: rotate(264deg);
+}
+.dot37 {
+  transform: rotate(276deg);
+}
+.dot38 {
+  transform: rotate(282deg);
+}
+.dot39 {
+  transform: rotate(288deg);
+}
+.dot40 {
+  transform: rotate(294deg);
+}
+.dot41 {
+  transform: rotate(306deg);
+}
+.dot42 {
+  transform: rotate(312deg);
+}
+.dot43 {
+  transform: rotate(318deg);
+}
+.dot44 {
+  transform: rotate(324deg);
+}
+.dot45 {
+  transform: rotate(336deg);
+}
+.dot46 {
+  transform: rotate(342deg);
+}
+.dot47 {
+  transform: rotate(348deg);
+}
+.dot48 {
+  transform: rotate(354deg);
 }
